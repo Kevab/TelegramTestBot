@@ -1,0 +1,22 @@
+! version = 2.0
+
++ *start
+- Benvenuto
+- Eccoti! Ti stavo aspettando
+- Ciao, come posso aiutarti?
+- Hey, che bello ri-vederti!\n Cosa vuoi fare?
+
++ *viaggi
+- Gestisci viaggi
+- Entra nella gestione viaggi
+- Viaggiamo insieme!
+
++ *resoconto
+- Gestisci il resoconto dei viaggi
+- Eccoti il resoconto dei viaggi
+- Resocontiamo! :D
+
++ citazione
+- Ce ripigliamm chell che è o nuostr
+- Un'attimo fa ero in un frullatore e adesso sto salvando vite! COOOOOSAAAA!!
+- Plata o plombo
